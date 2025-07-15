@@ -1,2 +1,3 @@
-# hello-world
-My first repository on GitHub
+# hello-worl
+this is my first repository on GitHub
+adding the first commit 
